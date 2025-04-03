@@ -1,4 +1,4 @@
-# **Liver Disease Prediction: Early Detection & Prevention** 🏥🔬  
+# **Liver Disease Prediction: Early Detection & Prevention** 🏥 
 Hello LinkedIn community! 👋🏼
 
 I'm excited to share a machine learning project that highlights the power of data-driven healthcare in detecting liver disease at an early stage. 📊🩺
