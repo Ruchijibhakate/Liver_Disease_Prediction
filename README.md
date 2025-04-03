@@ -1,4 +1,3 @@
-# Liver_Disease_Prediction
 # **Liver Disease Prediction: Early Detection & Prevention** 🏥🔬  
 
 Hello LinkedIn community! 👋🏼  
